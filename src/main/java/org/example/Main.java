@@ -15,7 +15,7 @@ public class Main {
 
         }
     }
-    private static int returnvalue(int a, int b, int c) {
-        return a + b + c;
+    private static int returnvalue(int a) {
+        return a;
     }
 }
